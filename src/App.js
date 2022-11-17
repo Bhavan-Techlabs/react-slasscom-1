@@ -23,7 +23,7 @@ export default function App() {
   }, []);
 
   const handleAnswerOption = (currentQuestion, answer) => {
-    if (currentQuestion.answers[currentQuestion.correctAnswer - 1] === answer) {
+    if (currentQuestion.answers[currentQuestion.correctAnswer] === answer) {
       setScore(score + 1);
     }
 

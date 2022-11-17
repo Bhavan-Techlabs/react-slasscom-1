@@ -2,22 +2,22 @@
   "questions": [
     {
       "question": "What is the capital of France?",
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "answers": ["New York", "London", "Paris", "Dublin"]
     },
     {
       "question": "Who is CEO of Tesla?",
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "answers": ["Jeff Bezos", "Elon Musk", "Bill Gates", "Tony Stark"]
     },
     {
       "question": "The iPhone was created by which company?",
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "answers": ["Apple", "Intel", "Amazon", "Microsoft"]
     },
     {
       "question": "How many Harry Potter books are there?",
-      "correctAnswer": 4,
+      "correctAnswer": 3,
       "answers": ["1", "4", "5", "7"]
     }
   ]
