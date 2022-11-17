@@ -4,7 +4,7 @@ import Result from './components/Result';
 import QuizBox from './components/QuizBox';
 import Loading from './components/Loading';
 
-import './styles/index.css';
+import './style.css';
 
 export default function App() {
   const [questions, setQuestions] = useState([]);
