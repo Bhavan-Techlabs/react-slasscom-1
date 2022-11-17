@@ -1,8 +1,7 @@
 import React from 'react';
 
 function Result() {
-    return (<></>)
-
+  return <></>;
 }
 
 export default Result;

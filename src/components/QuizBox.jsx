@@ -1,7 +1,7 @@
 import React from 'react';
 
 const QuizBox = () => {
-  return <></>
+  return <></>;
 };
 
 export default QuizBox;
