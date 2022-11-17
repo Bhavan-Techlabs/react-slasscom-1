@@ -34,7 +34,6 @@ body {
   justify-content: center;
 }
 
-/* QUESTION/TIMER/LEFT SECTION */
 .question-section {
   width: 100%;
   position: relative;
@@ -60,7 +59,6 @@ body {
   text-align: center;
 }
 
-/* ANSWERS/RIGHT SECTION */
 .answer-section {
   display: grid;
   justify-items: center;
@@ -71,7 +69,6 @@ body {
 button {
   color: #ffffff;
   background-color: #252d4a;
-  width: 100%;
   font-size: 1.2em;
   padding: 5px;
   border-radius: 15px;
@@ -98,4 +95,11 @@ button svg {
 
 .incorrect {
   background-color: #ff3333;
+}
+
+.question-loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
 }
