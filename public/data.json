@@ -1,24 +1,24 @@
 {
-    "questions": [
-        {
-            "question": "What is the capital of France?",
-            "correctAnswer": 3,
-            "answers": ["New York", "London", "Paris", "Dublin"]
-        },
-        {
-            "question": "Who is CEO of Tesla?",
-            "correctAnswer": 2,
-            "answers": ["Jeff Bezos", "Elon Musk", "Bill Gates", "Tony Stark"]
-        },
-        {
-            "question": "The iPhone was created by which company?",
-            "correctAnswer": 1,
-            "answers": ["Apple", "Intel", "Amazon", "Microsoft"]
-        },
-        {
-            "question": "How many Harry Potter books are there?",
-            "correctAnswer": 4,
-            "answers": ["1", "4", "5", "7"]
-        }
-    ]
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "correctAnswer": 3,
+      "answers": ["New York", "London", "Paris", "Dublin"]
+    },
+    {
+      "question": "Who is CEO of Tesla?",
+      "correctAnswer": 2,
+      "answers": ["Jeff Bezos", "Elon Musk", "Bill Gates", "Tony Stark"]
+    },
+    {
+      "question": "The iPhone was created by which company?",
+      "correctAnswer": 1,
+      "answers": ["Apple", "Intel", "Amazon", "Microsoft"]
+    },
+    {
+      "question": "How many Harry Potter books are there?",
+      "correctAnswer": 4,
+      "answers": ["1", "4", "5", "7"]
+    }
+  ]
 }
